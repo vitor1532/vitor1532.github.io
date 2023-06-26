@@ -4,9 +4,13 @@ body{
 }
 
 #foto {
-    border-radius:200px
+    border-radius:200px;
 }
 
 .sans {
     font-family: sans-serif;
+}
+
+#nacionalidade {
+    font-style: italic;
 }
