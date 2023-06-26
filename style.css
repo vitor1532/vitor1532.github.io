@@ -14,3 +14,28 @@ body{
 #nacionalidade {
     font-style: italic;
 }
+
+.html {
+    font-size: 11px;
+}
+.css {
+    font-size: 12px;
+}
+.php {
+    font-size: 13px;
+}
+.javascript {
+    font-size: 14px;
+}
+.sql {
+    font-size: 15px;
+}
+.laravel {
+    font-size: 16px;
+}
+.vue {
+    font-size: 17px;
+}
+.mysql {
+    font-size: 18px;
+}
