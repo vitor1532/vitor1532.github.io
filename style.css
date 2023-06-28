@@ -5,6 +5,7 @@ body{
 
 #foto {
     border-radius:200px;
+    width: 120px;
 }
 
 .sans {
@@ -38,4 +39,22 @@ body{
 }
 .mysql {
     font-size: 18px;
+}
+.conteudo {
+    width: 100%;
+    display: table;
+    clear: both;
+}
+.img {
+    float: left;
+    margin-right: 15px;
+    padding: 1px;
+    background-color: gray;
+    border-radius: 100px;
+}
+.p1 {
+    padding-left: 15px;
+}
+.impar {
+    text-decoration: underline;
 }
