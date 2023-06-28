@@ -41,8 +41,17 @@ body{
     font-size: 18px;
 }
 .conteudo {
-    display: flex;
+    width: 100%;
+    display: table;
+    clear: both;
 }
-.conteudo p {
+.img {
+    float: left;
+    margin-right: 15px;
+    padding: 1px;
+    background-color: gray;
+    border-radius: 100px;
+}
+.p1 {
     padding-left: 15px;
 }
