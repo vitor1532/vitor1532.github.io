@@ -41,15 +41,9 @@ body{
     font-size: 18px;
 }
 .conteudo {
-    width: 100%;
-    display: table;
-    clear: both;
+    display: flex;
 }
 .img {
-    float: left;
-    margin-right: 15px;
-    padding: 1px;
-    background-color: gray;
     border-radius: 100px;
 }
 .p1 {
