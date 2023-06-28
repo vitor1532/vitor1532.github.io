@@ -5,6 +5,7 @@ body{
 
 #foto {
     border-radius:200px;
+    width: 120px;
 }
 
 .sans {
@@ -38,4 +39,10 @@ body{
 }
 .mysql {
     font-size: 18px;
+}
+.conteudo {
+    display: flex;
+}
+.conteudo p {
+    padding-left: 15px;
 }
